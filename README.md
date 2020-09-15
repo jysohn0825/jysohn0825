@@ -11,8 +11,8 @@
 - (18.03 - 19.12) 명지대 컴퓨터공학과 학술 동아리 SAT 활동
 - (20.03 - 20.06) 명지대 컴퓨터공학과 캡스톤디자인 'Decrescendo' - 우수상 수상
 - (20.04 - 20.07) 2020 SW 스타트업 창업 챌린지 공모전 - 예선 통과
-- (20.07 - 20.08) 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 (프로그래머스 사이트 강의)
-- (20.08 - 20.08) Python Web Scrapper Challenge (Nomad Coder 사이트 강의) - 수료
+- (20.07 - 20.08) [Programmers - 실리](https://github.com/jysohn0825)
+- (20.08 - 20.08) Nomad Coder - Python Web Scrapper Challenge 수료
 - (20.08 -) 부스트코스 웹 백엔드 (네이버 재단의 Edwith 사이트 강의) - Project 1 통과
 
 ## Interest 👀
