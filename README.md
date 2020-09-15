@@ -9,11 +9,11 @@
 ## Work Experience 🤹‍♀️
 - (18.09 - 18.12) 명지대학교 컴퓨터공학과 팀프로젝트 'Catch-ur-Crayon'
 - (18.03 - 19.12) 명지대 컴퓨터공학과 학술 동아리 SAT 활동
-- (20.03 - 20.06) 명지대 컴퓨터공학과 캡스톤디자인 'Decrescendo' - 우수상
+- (20.03 - 20.06) 명지대 컴퓨터공학과 캡스톤디자인 'Decrescendo' - 우수상 수상
 - (20.04 - 20.07) 2020 SW 스타트업 창업 챌린지 공모전 - 예선 통과
-- (20.07 - 20.08) 프로그래머스
+- (20.07 - 20.08) Programmers (실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트)
 - (20.08 - 20.08) Nomad Coder - Python Web Scrapper Challenge - 수료
-- (20.08 -      ) 부스트코스 웹 백엔드 - project 1 통과
+- (20.08 -      ) Naver재단 Edwith (부스트코스 웹 백엔드) - Project 1 통과
 
 ## Interest 👀
 - Data Engineer
