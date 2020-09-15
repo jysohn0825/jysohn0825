@@ -15,6 +15,8 @@
 - (20.08 - 20.08) [Nomad Coder - Python Web Scrapper Challenge 수료](https://github.com/jysohn0825/nomad_coder)
 - (20.08 -) 부스트코스 웹 백엔드 (네이버 재단의 Edwith 사이트 강의) - Project 1 통과
 
+<br>
+
 ## Interest 👀
 - Data Engineer
 - Back-end Developer
