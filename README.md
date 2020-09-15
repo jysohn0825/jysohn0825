@@ -13,7 +13,7 @@
 - (20.04 - 20.07) 2020 SW 스타트업 창업 챌린지 공모전 - 예선 통과
 - (20.07 - 20.08) [Programmers - 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://github.com/jysohn0825/prgrms_data_eng)
 - (20.08 - 20.08) [Nomad Coder - Python Web Scrapper Challenge 수료](https://github.com/jysohn0825/nomad_coder)
-- (20.08 -) 부스트코스 웹 백엔드 (네이버 재단의 Edwith 사이트 강의) - Project 1 통과
+- (20.08 -) Naver Edwith -부스트코스 웹 백엔드 - Project 1 통과
 
 <br>
 
