@@ -7,9 +7,8 @@
 <br>
 
 ## Work Experience 🤹‍♀️
-- (00.00 - 00.00) 경력 1
-- (19.00 - 19.00) 경력 2
+- 
 
 ## Interest 👀
-- 흥미1
-- 흥미2
+- Data Engineer
+- Back-end Developer
