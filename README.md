@@ -1,7 +1,9 @@
 # 손진영 
 
-## Skills
+<br>
 
+## Skills👍 
+Java, Spring, MySQL, Python
 
 <br>
 
