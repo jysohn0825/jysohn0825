@@ -2,7 +2,7 @@
 
 <br>
 
-## Skills👍 
+## Skill👍 
 Java, Spring, MySQL, Python
 
 <br>
