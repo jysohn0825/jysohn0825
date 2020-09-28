@@ -13,7 +13,7 @@ Java, Spring, MySQL, Python
 - (20.03 - 20.06) [명지대 컴퓨터공학과 캡스톤디자인 'Decrescendo' - 우수상 수상](https://github.com/jysohn0825/capstone_design)
 - (20.04 - 20.07) 2020 SW 스타트업 창업 챌린지 공모전 - 예선 통과
 - (20.07 - 20.08) [Programmers - 실리콘밸리에서 날아온 데이터 엔지니어링 스타터 키트 with Python](https://github.com/jysohn0825/prgrms_data_eng)
-- (20.08 -) Naver Edwith -부스트코스 웹 백엔드 - [Project 1 통과](https://github.com/jysohn0825/boostcourse/blob/master/project_1.md)
+- (20.08 -) Naver Edwith -부스트코스 웹 백엔드 - [Project 1](https://github.com/jysohn0825/boostcourse/blob/master/project_1.md)
 - Toy Project - [Python Web Scrapper](https://github.com/jysohn0825/nomad_coder) ,[Mini PhotoShop](https://github.com/jysohn0825/toy_project/tree/master/mini%20PhotoShop)
 <br>
 
