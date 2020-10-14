@@ -17,7 +17,7 @@ Java, Spring, MySQL, Python
 
 <br>
 
-- Toy Project - [Python Web Scrapper](https://github.com/jysohn0825/nomad_coder) ,[Mini PhotoShop](https://github.com/jysohn0825/toy_project/tree/master/mini%20PhotoShop)
+- Toy Project - [Web Scrapper(Python)](https://github.com/jysohn0825/nomad_coder) ,[Mini PhotoShop(Python)](https://github.com/jysohn0825/toy_project/tree/master/mini%20PhotoShop),[Kakao UI Clone(HTML,CSS)](https://github.com/jysohn0825/nomad_coder)
 <br>
 
 ## Interest 👀
