@@ -18,7 +18,7 @@ Java, Spring, MySQL, Python
 <br>
 
 - Toy Project <br>
-Python - [Web Scrapper](https://github.com/jysohn0825/nomad_coder/tree/master/Python_Web_Scrapper) , [Mini PhotoShop](https://github.com/jysohn0825/toy_project/tree/master/mini%20PhotoShop), [Prevention of drowsiness](https://github.com/jysohn0825/toy_project/tree/master/Prevention%20of%20drowsiness), [Stock Prediction](https://github.com/jysohn0825/toy_project/tree/master/Prevention%20of%20drowsiness)<br>
+Python - [Web Scrapper](https://github.com/jysohn0825/nomad_coder/tree/master/Python_Web_Scrapper) , [Mini PhotoShop](https://github.com/jysohn0825/toy_project/tree/master/mini%20PhotoShop), [Prevention of drowsiness](https://github.com/jysohn0825/toy_project/tree/master/Prevention%20of%20drowsiness), [Stock Prediction](https://github.com/jysohn0825/Stock)<br>
 HTML,CSS - [Kakao UI Clone](https://github.com/jysohn0825/nomad_coder/tree/master/Kokoa_Clone_WebUI)<br>
 ReactJS - [Netflix Clone](https://github.com/jysohn0825/nomad_coder/tree/master/Netflix_Clone_ReactJS)
 <br>
