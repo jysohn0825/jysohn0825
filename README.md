@@ -11,5 +11,5 @@ Kotlin, Spring, Oracle, JPA
 - (21.01 - ) KONAi 서버 개발 
 
 ## Interest 👀
-- Data Engineer
 - Back-end Developer
+- Data Engineer
