@@ -12,4 +12,3 @@ Kotlin, Spring, Oracle, JPA
 
 ## Interest 👀
 - Back-end Developer
-- Data Engineer
