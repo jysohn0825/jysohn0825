@@ -3,7 +3,7 @@
 <br>
 
 ## Skill👍 
-Kotlin, Spring, Oracle, JPA, GO
+Kotlin, Spring, Oracle, JPA, Go
 
 <br>
 
